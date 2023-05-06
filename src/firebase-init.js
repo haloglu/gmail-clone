@@ -9,6 +9,7 @@ const firebaseConfig = {
   storageBucket: "clone-5f042.appspot.com",
   messagingSenderId: "579767099503",
   appId: "1:579767099503:web:0dddddd7732a53ee5c6d9a",
+  // databaseURL: "Your firebase url"
 };
 
 const app = initializeApp(firebaseConfig);
